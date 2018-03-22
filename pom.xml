@@ -11,7 +11,7 @@
 
     <!-- TODO Remove snapshot repositories after final Spring Boot 2 release -->
     <repositories>
-        <repository>s
+        <repository>
             <id>sonatype-snapshot</id>
             <name>JHipster Snapshots</name>
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
